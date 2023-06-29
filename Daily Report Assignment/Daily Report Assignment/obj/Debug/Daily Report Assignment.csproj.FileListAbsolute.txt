@@ -1,0 +1,7 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\bin\Debug\Daily Report Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.AssemblyReference.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily Report Assignment\Daily Report Assignment\obj\Debug\Daily Report Assignment.pdb
