@@ -1,0 +1,7 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.AssemblyReference.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.pdb
