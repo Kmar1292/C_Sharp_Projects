@@ -1,0 +1,7 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\bin\Debug\Do While Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\bin\Debug\Do While Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\bin\Debug\Do While Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\obj\Debug\Do While Assignment.csproj.AssemblyReference.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\obj\Debug\Do While Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\obj\Debug\Do While Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Do While Assignment\Do While Assignment\obj\Debug\Do While Assignment.pdb
