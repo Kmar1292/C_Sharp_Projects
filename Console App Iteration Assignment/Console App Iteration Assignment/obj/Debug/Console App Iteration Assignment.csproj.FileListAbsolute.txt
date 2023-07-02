@@ -1,0 +1,7 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\bin\Debug\Console App Iteration Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\bin\Debug\Console App Iteration Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\bin\Debug\Console App Iteration Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\obj\Debug\Console App Iteration Assignment.csproj.AssemblyReference.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\obj\Debug\Console App Iteration Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\obj\Debug\Console App Iteration Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Console App Iteration Assignment\Console App Iteration Assignment\obj\Debug\Console App Iteration Assignment.pdb
