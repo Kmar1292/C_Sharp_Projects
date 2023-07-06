@@ -4,3 +4,4 @@ C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Abstract Class Assignm
 C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.CoreCompileInputs.cache
 C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.exe
 C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.AssemblyReference.cache

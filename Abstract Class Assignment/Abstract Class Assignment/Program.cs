@@ -13,8 +13,13 @@ namespace Abstract_Class_Assignment
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
 
             employee.SayName();
-            Console.Read();
+            employee.Quit();
 
+            //Polymorphism
+            IQuittable quitter = new Employee();
+            quitter.Quit();
+
+            Console.Read();
         }
     }
 }
