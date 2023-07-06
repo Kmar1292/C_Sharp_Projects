@@ -1,0 +1,6 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Method Class Assignment\Method Class Assignment\bin\Debug\Method Class Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Method Class Assignment\Method Class Assignment\bin\Debug\Method Class Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Method Class Assignment\Method Class Assignment\bin\Debug\Method Class Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Method Class Assignment\Method Class Assignment\obj\Debug\Method Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Method Class Assignment\Method Class Assignment\obj\Debug\Method Class Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Method Class Assignment\Method Class Assignment\obj\Debug\Method Class Assignment.pdb
