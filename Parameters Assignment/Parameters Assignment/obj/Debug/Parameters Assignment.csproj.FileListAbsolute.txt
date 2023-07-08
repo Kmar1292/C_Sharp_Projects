@@ -1,0 +1,7 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.AssemblyReference.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.pdb
