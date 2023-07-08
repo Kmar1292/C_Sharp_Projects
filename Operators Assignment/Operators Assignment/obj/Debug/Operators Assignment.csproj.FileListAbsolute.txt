@@ -1,0 +1,7 @@
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\bin\Debug\Operators Assignment.exe.config
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\bin\Debug\Operators Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\bin\Debug\Operators Assignment.pdb
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\obj\Debug\Operators Assignment.csproj.AssemblyReference.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\obj\Debug\Operators Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\obj\Debug\Operators Assignment.exe
+C:\Users\kmar1\OneDrive\Documents\GitHub\C_Sharp_Projects\Operators Assignment\Operators Assignment\obj\Debug\Operators Assignment.pdb
