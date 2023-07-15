@@ -22,6 +22,8 @@ namespace Parameters_Assignment
             employeeTwo.things.Add(12);
             employeeTwo.things.Add(42);
 
+            List<Employee<T>> myList = new List<Employee<T>>();
+
             foreach (string thing in employee.things)
             {
                 Console.WriteLine(thing);
