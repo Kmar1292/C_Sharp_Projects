@@ -2,7 +2,7 @@
 The Tech Academy C# and Unity Course projects
 
 ## Introduction
-This repository contains all of the projects doen fo the C# course by The Tech Academy.
+This repository contains all of the projects and assignments done for the C# course by The Tech Academy.
 
 ## Projects
 * [TwentyOne](https://github.com/Kmar1292/C_Sharp_Projects/tree/main/TwentyOne/TwentyOne)
